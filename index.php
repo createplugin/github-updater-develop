@@ -9,7 +9,7 @@
  */
 
 /*
-Plugin Name:       Create Plugin Github Updater 1
+Plugin Name:       Create Plugin Github Updater 2
 Plugin URI:        https://github.com/createplugin/github-updater-develop
 Description:       A plugin to automatically update GitHub or Bitbucket hosted plugins and themes into WordPress. Plugin class based upon <a href="https://github.com/codepress/github-plugin-updater">codepress/github-plugin-updater</a>. Theme class based upon <a href="https://github.com/WordPress-Phoenix/whitelabel-framework">Whitelabel Framework</a> modifications.
 Version:           0.1
