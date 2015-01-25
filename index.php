@@ -1,24 +1,24 @@
 <?php
 /**
- * GitHub Updater
+ * Create Plugin GitHub Updater
  *
  * @package   GitHub_Updater
- * @author    Andy Fragen
+ * @author    Create Plugin
  * @license   GPL-2.0+
- * @link      https://github.com/afragen/github-updater
+ * @link      https://github.com/createplugin/github-updater-develop
  */
 
 /*
-Plugin Name:       GitHub Updater
-Plugin URI:        https://github.com/afragen/github-updater
+Plugin Name:       Create Plugin Github Updater 1
+Plugin URI:        https://github.com/createplugin/github-updater-develop
 Description:       A plugin to automatically update GitHub or Bitbucket hosted plugins and themes into WordPress. Plugin class based upon <a href="https://github.com/codepress/github-plugin-updater">codepress/github-plugin-updater</a>. Theme class based upon <a href="https://github.com/WordPress-Phoenix/whitelabel-framework">Whitelabel Framework</a> modifications.
-Version:           3.2.6
+Version:           0.1
 Author:            Andy Fragen
 License:           GNU General Public License v2
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 Domain Path:       /languages
-Text Domain:       github-updater
-GitHub Plugin URI: https://github.com/afragen/github-updater
+Text Domain:       createplugin-github-updater
+GitHub Plugin URI: https://github.com/createplugin/github-updater-develop
 GitHub Branch:     develop
 Requires WP:       3.8
 */
